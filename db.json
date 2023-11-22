@@ -1,4 +1,4 @@
-[
+{"cards" : [
       {
         "set": "eend",
         "card1": "duck",
@@ -95,3 +95,4 @@
         "card2": "hen"
       }
     ]
+}
