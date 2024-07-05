@@ -1,99 +1,121 @@
-{
-    "cards": [
-        {
-            "set": "eend",
-            "name1": "duck",
-            "name2": "duck"
-        },
-        {
-            "set": "kitten",
-            "name1": "kitten",
-            "name2": "kitten"
-        },
-        {
-            "set": "big",
-            "name1": "piglet",
-            "name2": "piglet"
-        },
-        {
-            "set": "puppy",
-            "name1": "puppy",
-            "name2": "puppy"
-        },
-        {
-            "set": "kalf",
-            "name1": "calf",
-            "name2": "calf"
-        },
-        {
-            "set": "veulen",
-            "name1": "veal",
-            "name2": "veal"
-        },
-        {
-            "set": "lam",
-            "name1": "lamb",
-            "name2": "lamb"
-        },
-        {
-            "set": "haan",
-            "name1": "rooster",
-            "name2": "rooster"
-        },
-        {
-            "set": "paard",
-            "name1": "horse",
-            "name2": "horse"
-        },
-        {
-            "set": "muis",
-            "name1": "mouse",
-            "name2": "mouse"
-        },
-        {
-            "set": "hond",
-            "name1": "dog",
-            "name2": "dog"
-        },
-        {
-            "set": "kat",
-            "name1": "cat",
-            "name2": "cat"
-        },
-        {
-            "set": "gans",
-            "name1": "goose",
-            "name2": "goose"
-        },
-        {
-            "set": "geit",
-            "name1": "goat",
-            "name2": "goat"
-        },
-        {
-            "set": "schaap",
-            "name1": "sheep",
-            "name2": "sheep"
-        },
-        {
-            "set": "varken",
-            "name1": "pig",
-            "name2": "pig"
-        },
-        {
-            "set": "koe",
-            "name1": "cow",
-            "name2": "cow"
-        },
-        {
-            "set": "kuiken",
-            "name1": "chick",
-            "name2": "chick"
-        },
-        {
-            "set": "kip",
-            "name1": "hen",
-            "name2": "hen"
-        }
-    ]
-}
+[
+    {
+        "set": "duck",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "kitten",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "piglet",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "puppy",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "calf",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "veal",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "lamb",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "rooster",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "horse",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "mouse",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "dog",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "cat",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "goose",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "goat",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "sheep",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "pig",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "cow",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "chick",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "hen",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "donkey",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "peacock",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "pigeon",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "fox",
+        "card1": "",
+        "card2": ""
+    },
+    {
+        "set": "hedgehog",
+    "card1": "",
+    "card2": ""
+}]
